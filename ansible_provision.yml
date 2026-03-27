@@ -21,6 +21,6 @@
 
   - name: Cloning Git repository
     ansible.builtin.git:
-      repo: 'https://github.com/sposdknl/ansible01-zbx-hebcig''
+      repo: 'https://github.com/sposdknl/ansible01-zbx-hebcig'
       dest: /opt/repo
 ...
